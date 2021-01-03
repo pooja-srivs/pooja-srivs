@@ -14,7 +14,7 @@
 Stashing my thoughts on my personal website [feelswithme](https://feelswithme.wordpress.com/) and [medium-feelswithme](https://medium.com/me/stories/public).
 
 
-### My Digital Garden 📊 
+### Github Stats 📊 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pooja-srivs&count_private=true&show_icons=true&include_all_commits=true" alt="Pooja Srivastava | Stats" />
   
 
