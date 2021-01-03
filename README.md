@@ -16,7 +16,7 @@
 
 ## Reach me via 👇
 <a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Pooja's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Pooja's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
 </a>
 <a href="https://twitter.com/pooja_srivs">
   <img align="left" alt="Pooja Srivastava | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -27,5 +27,6 @@
 <a href="https://www.reddit.com/user/Excellent-Ad1176">
   <img align="left" alt="Pooja's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a>
+
 
 ## Projects made with ❤️ 👇
