@@ -1,10 +1,10 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-I'm Pooja Srivastava, a passionate Android Developer 🚀 , an avid Reader and an amateur Writer !
+### Hi there, I'm Pooja Srivastava <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## About Me 🤷🏻‍♂️
 
-* 📱 Android Developer 
+* Android Developer 📱
+* an Avid Reader 
+* an Amateur Writer
 
 </p>
 
