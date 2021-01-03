@@ -1,7 +1,7 @@
 ### Hi there, I'm Pooja Srivastava <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-# A Passionate Android Developer 🚀 
+## A Passionate Android Developer 🚀 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=pooja-srivs.pooja-srivs)
 
@@ -15,9 +15,7 @@
 </details>
 
 ## Reach me via 👇
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Pooja's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
-</a>
+
 <a href="https://twitter.com/pooja_srivs">
   <img align="left" alt="Pooja Srivastava | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
