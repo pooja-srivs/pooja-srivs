@@ -1,13 +1,17 @@
-### Hi there, I'm Pooja Srivastava <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-
-## A Passionate Android Developer 🚀 
-
-![](https://visitor-badge.glitch.me/badge?page_id=pooja-srivs.pooja-srivs)
+I'm Pooja Srivastava, a passionate Android Developer 🚀 , an avid Reader and an amateur Writer !
 
 ## About Me 🤷🏻‍♂️
 
 * 📱 Android Developer 
+
+</p>
+
+### My Digital Garden 🌱
+
+Stashing my thoughts on my personal website [feelswithme](https://feelswithme.wordpress.com/) and [medium-feelswithme](https://medium.com/me/stories/public).
+
 
 <details>
   <summary><b>📊 Github Stats</b></summary>
@@ -25,6 +29,8 @@
 <a href="https://www.reddit.com/user/Excellent-Ad1176">
   <img align="left" alt="Pooja's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=pooja-srivs.pooja-srivs)
 
 
 ## Projects made with ❤️ 👇
