@@ -3,6 +3,8 @@
 
 # A Passionate Android Developer 🚀 
 
+![](https://visitor-badge.glitch.me/badge?page_id=pooja-srivs.pooja-srivs)
+
 ## About Me 🤷🏻‍♂️
 
 * 📱 Android Developer 
