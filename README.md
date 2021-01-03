@@ -1,4 +1,4 @@
-### Hi there, I'm Pooja Srivastava👋
+### Hi there, I'm Pooja Srivastava <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 # A Passionate Android Developer 🚀 
