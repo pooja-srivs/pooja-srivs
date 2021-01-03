@@ -17,6 +17,10 @@ Stashing my thoughts on my personal website [feelswithme](https://feelswithme.wo
 ### Github Stats 📊 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pooja-srivs&count_private=true&show_icons=true&include_all_commits=true" alt="Pooja Srivastava | Stats" />
   
+  
+### Achievements
+Got featured in [The StartUp](https://medium.com/swlh/rescue-view-sanity-in-recycler-329ce32b1613)
+  
 
 ## Reach me via 👇
 
