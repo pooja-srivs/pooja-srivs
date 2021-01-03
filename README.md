@@ -8,16 +8,15 @@
 
 </p>
 
+
 ### My Digital Garden 🌱
 
 Stashing my thoughts on my personal website [feelswithme](https://feelswithme.wordpress.com/) and [medium-feelswithme](https://medium.com/me/stories/public).
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pooja-srivs&count_private=true&show_icons=true&include_all_commits=true" alt="Pooja Srivastava | Stats" />
 
-<details>
-  <summary><b>📊 Github Stats</b></summary>
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pooja-srivs&count_private=true&show_icons=true&include_all_commits=true" alt="Pooja Srivastava | Stats" />
-</details>
+### My Digital Garden 📊 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pooja-srivs&count_private=true&show_icons=true&include_all_commits=true" alt="Pooja Srivastava | Stats" />
+  
 
 ## Reach me via 👇
 
@@ -30,6 +29,7 @@ Stashing my thoughts on my personal website [feelswithme](https://feelswithme.wo
 <a href="https://www.reddit.com/user/Excellent-Ad1176">
   <img align="left" alt="Pooja's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=pooja-srivs.pooja-srivs)
 
