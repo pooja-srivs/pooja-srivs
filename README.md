@@ -1,3 +1,6 @@
+![](https://visitor-badge.glitch.me/badge?page_id=pooja-srivs.pooja-srivs)
+
+
 ### Hi there, I'm Pooja Srivastava <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## About Me 🤷🏻‍♂️
@@ -33,9 +36,6 @@ Got featured in [The StartUp](https://medium.com/swlh/rescue-view-sanity-in-recy
 <a href="https://www.reddit.com/user/Excellent-Ad1176">
   <img align="left" alt="Pooja's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a>
-
-
-![](https://visitor-badge.glitch.me/badge?page_id=pooja-srivs.pooja-srivs)
 
 
 ## Projects made with ❤️ 👇
