@@ -37,5 +37,3 @@ Got featured in [The StartUp](https://medium.com/swlh/rescue-view-sanity-in-recy
   <img align="left" alt="Pooja's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a>
 
-
-## Projects made with ❤️ 👇
