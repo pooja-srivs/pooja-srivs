@@ -1,5 +1,3 @@
-![](https://visitor-badge.glitch.me/badge?page_id=pooja-srivs.pooja-srivs)
-
 
 ### Hi there, I'm Pooja Srivastava <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -16,6 +14,7 @@
 
 Stashing my thoughts on my personal website [feelswithme](https://feelswithme.wordpress.com/) and [medium-feelswithme](https://medium.com/me/stories/public).
 
+![](https://visitor-badge.glitch.me/badge?page_id=pooja-srivs.pooja-srivs)
 
 ### Github Stats 📊 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pooja-srivs&count_private=true&show_icons=true&include_all_commits=true" alt="Pooja Srivastava | Stats" />
