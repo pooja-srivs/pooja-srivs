@@ -3,9 +3,7 @@
 
 ## About Me 🤷🏻‍♂️
 
-* Android Developer 📱
-* an Avid Reader 
-* an Amateur Writer
+A Lazy Dev, working as a Sr Software Engineer, specialized in Java & Kotlin. In my free time, when not programming, must be reading a novel or stashing my thoughts on my website.
 
 </p>
 
